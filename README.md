@@ -1,3 +1,9 @@
+IMPORTANT:
+
+For code solutions check in the main files: bookshop_utils.js & utils.test.js
+
+Answers for written questions can be found in ./docs/WRITTEN-QUESTIONS-ANSWERS.md 
+
 # Week 1 - Programming Fundamentals 
 
 # Data types, operators and functions
